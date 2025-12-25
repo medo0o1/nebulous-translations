@@ -42,17 +42,17 @@
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
     <string name="CONNECTED">"연결됨"</string>
-    <string name="JOINING___">"참가 중…"</string>
+    <string name="JOINING___">"합류…"</string>
     <string name="PLAYING">"플레이 중"</string>
     <string name="MULTIPLAYER">"멀티 플레이어"</string>
 
-    <string name="JOIN">"참여"</string>
+    <string name="JOIN">"가입하다"</string>
 
 
-    <string name="Lobby_Name">"방 이름"</string>
+    <string name="Lobby_Name">"로비 이름"</string>
     <string name="Not_found_">"찾을 수 없습니다."</string>
 
-    <string name="Hidden">"비공개"</string>
+    <string name="Hidden">"숨겨진"</string>
 
 
     <string name="SERVER">"서버"</string>
@@ -66,21 +66,21 @@
 
     <string name="SINGLE_PLAYER">"싱글 플레이어"</string>
     <string name="Background_">"배경:"</string>
-    <string name="Difficulty_">"난이도:"</string>
-    <string name="Delay_Disconnect">"연결 종료 지연"</string>
+    <string name="Difficulty_">"어려움:"</string>
+    <string name="Delay_Disconnect">"지연_연결 끊기"</string>
 
     <string name="Max_Players">"최대 플레이어"</string>
     <string name="Min_Players">"최소 플레이어"</string>
 
-    <string name="OK">"확인"</string>
+    <string name="OK">"좋아요"</string>
     <string name="CANCEL">"취소"</string>
     <string name="Chat_Name">"채팅 이름"</string>
     <string name="Max_People">"최대 인원"</string>
     <string name="START">"시작"</string>
-    <string name="CREATE">"생성"</string>
+    <string name="CREATE">"만들다"</string>
     <string name="CUSTOM_GAMES">"사용자 정의 게임"</string>
     <string name="CHAT">"채팅"</string>
-    <string name="CUSTOM_SETUP">"사용자 설정"</string>
+    <string name="CUSTOM_SETUP">"사용자 지정 설정"</string>
     <string name="CHAT_SETUP">"채팅 설정"</string>
 
 
@@ -93,19 +93,19 @@
     <string name="Not_signed_in_">"로그인하지 않음!"</string>
     <string name="SET_NAME">"이름 설정"</string>
     <string name="SIGN_OUT">"로그아웃"</string>
-    <string name="ACHIEVEMENTS">"도전과제"</string>
+    <string name="ACHIEVEMENTS">"업적"</string>
     <string name="STATISTICS">"통계"</string>
     <string name="XP_">"경험치"</string>
 
     <string name="Information">"정보"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"이 스킨을 사용하려면 특정 도전과제를 달성해야합니다!"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"이 스킨을 사용하려면 업적을 달성해야 합니다!"</string>
     <string name="To_use_this_skin_you_must_reach_level">"이 스킨을 달성하려면 특정 레벨에 도달해야합니다!"</string>
     <string name="SIGN_IN">"로그인"</string>
 
     <string name="Single_Player_Stats">"싱글 플레이어 통계"</string>
 
     <string name="Level">"레벨"</string>
-    <string name="PAUSED">"멈춤"</string>
+    <string name="PAUSED">"일시중지됨"</string>
 
 
     <string name="FRIENDS">"친구"</string>
@@ -114,7 +114,7 @@
     <string name="New_Friend_Request">"새로운 친구 요청!"</string>
     <string name="REQUEST_FRIEND">"친구 요청하기"</string>
     <string name="Private">"비공개"</string>
-    <string name="Public">"공개"</string>
+    <string name="Public">"공공의"</string>
     <string name="Bot">"봇"</string>
     <string name="You">"당신"</string>
     <string name="This_player_is_a_bot">"이 플레이어는 봇입니다."</string>
@@ -123,7 +123,7 @@
     <string name="Online">"온라인"</string>
     <string name="Unknown">"알 수 없음"</string>
     <string name="Offline">"오프라인"</string>
-    <string name="Achievement_Earned">"도전과제 획득"</string>
+    <string name="Achievement_Earned">"달성한 업적"</string>
     <string name="REFRESH">"새로고침"</string>
     <string name="DONE">"완료"</string>
     <string name="Friend_Request_Sent">"친구 요청이 전송되었습니다 …"</string>
@@ -131,14 +131,14 @@
     <string name="CONTINUE">"계속"</string>
     <string name="Global_" formatted="false">"글로벌"</string>
     <string name="FRIEND_CHAT">"친구 채팅"</string>
-    <string name="LOBBY_NAME">"방 이름"</string>
+    <string name="LOBBY_NAME">"로비 이름"</string>
     <string name="NULL">"존재하지 않음"</string>
 
 
-    <string name="ALL">"전체"</string>
+    <string name="ALL">"모두"</string>
     <string name="FFA">"개인전"</string>
     <string name="FFA_TIME">"개인전 (시간)"</string>
-    <string name="TEAMS">"팀전"</string>
+    <string name="TEAMS">"팀"</string>
     <string name="TEAMS_TIME">"팀전 (시간)"</string>
     <string name="CTF">"깃발뺏기"</string>
     <string name="SURVIVAL">"생존"</string>
@@ -147,7 +147,7 @@
     <string name="Clan_XP">"클랜 경험치"</string>
 
 
-    <string name="Dot_Nibbler">"도트를 야금야금"</string>
+    <string name="Dot_Nibbler">"도트니블러"</string>
     <string name="Dot_Muncher">"도트를 아삭아삭"</string>
     <string name="Dot_Eater">"도트를 먹는 자"</string>
     <string name="Dot_Gulper">"도트를 벌컥벌컥"</string>
@@ -169,7 +169,7 @@
     <string name="Blobastrophe">"방울 대소동"</string>
     <string name="Blobihilation">"방울 종말"</string>
     <string name="Blobageddon">"방울겟돈"</string>
-    <string name="Blobocalypse">"방울 대재앙"</string>
+    <string name="Blobocalypse">"블로보칼립스"</string>
 
     <string name="Experienced_Nebulator">"네뷸러스 경험자"</string>
     <string name="Expert_Nebulator">"네뷸러스 전문가"</string>
@@ -267,7 +267,7 @@
     <string name="JOIN_RANDOM_CLAN">"랜덤 클랜 가입"</string>
     <string name="LEAVE_CLAN">"클랜 떠나기"</string>
     <string name="INVITE_MEMBER">"멤버 초대"</string>
-    <string name="REMOVE_MEMBER">"멤버 추방"</string>
+    <string name="REMOVE_MEMBER">"회원 삭제"</string>
 
 
     <string name="CREATE_CLAN">"클랜 생성"</string>
@@ -363,7 +363,7 @@
 
     <string name="Score">"점수: 0"</string>
     <string name="Rating">"평가"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"당신은 새로운 리더를 지정하려 하고 있습니다!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"당신은 곧 새로운 지도자를 만들게 될 것입니다!"</string>
     <string name="XP">"경험치"</string>
     <string name="High_Score">"최고 점수"</string>
 
@@ -384,7 +384,7 @@
 
 
     <string name="snowflakes_">"개의 눈송이."</string>
-    <string name="presents_">"개의 선물."</string>
+    <string name="presents_">"선물."</string>
     <string name="Snowflake_Collector">"눈송이 수집가"</string>
     <string name="Present_Collector">"선물 수집가"</string>
 
